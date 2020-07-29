@@ -1,0 +1,7 @@
+{
+	"plugin-data":
+	{
+		"name": "Items per page",
+		"description": "Adds an additional option to the field \"Items per page\" to the admin panel."
+	}
+}
