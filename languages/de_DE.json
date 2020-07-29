@@ -1,0 +1,7 @@
+{
+	"plugin-data":
+	{
+		"name": "Items per page",
+		"description": "Fügt eine selbstdefinierte Option zum Feld \"Inhalte pro Seite\" im Administrationsbereich."
+	}
+}
